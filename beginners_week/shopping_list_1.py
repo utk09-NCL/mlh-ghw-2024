@@ -77,4 +77,4 @@ print("Original List:\t\t", original_list)
 print("Shallow Copied List:\t", shallow_copied_list)
 print("\n")
 
-print(dir(str))
+# print(dir(str))
