@@ -27,7 +27,7 @@ print("Employee Dictionary:")
 print(employee_dict)
 
 # Remove an employee
-employee_dict.pop(102, None)
+employee_dict.pop(102)
 
 # Display the dictionary after removal
 print("\nEmployee Dictionary after removing employee with ID 102:")
